@@ -1,5 +1,15 @@
 # Awesome Crypto
 
+Officially I use binance and trust wallet also ALTMARKETS.IO
+
+## Shitty cryptos
+
+- Doge official and fake
+- Roger fake account
+- Shiba official
+- LiteDoge official and fake
+- RNR official
+
 ## Metaverse 
 
 - https://cryptovoxels.com still anonymous
