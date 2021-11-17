@@ -2,6 +2,6 @@
 
 ## Metaverse 
 
-- https://cryptovoxels.com
-- https://play.decentraland.org/
-- https://www.sandbox.game/
+- https://cryptovoxels.com still anonymous
+- https://play.decentraland.org/ naz
+- https://www.sandbox.game/ nazimboudeffa
