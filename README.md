@@ -7,9 +7,9 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 ## Shitty cryptos
 
 - Doge official and fake
-- Roger fake account
+- Roger fake
 - LiteDoge official and fake
-- Rock N Rain official
+- Rock N Rain official and fake
 - Shiba official
 - Garlic fake and some others with WalletBot
 - banano missed the account not interested
