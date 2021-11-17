@@ -11,7 +11,7 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 - LiteDoge official and fake
 - Rock N Rain official
 - Shiba official
-- Garlic fake
+- Garlic fake and some others with WalletBot
 - banano missed the account not interested
 
 ## NFT
