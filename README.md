@@ -7,8 +7,10 @@ Officially I use binance and trust wallet also ALTMARKETS.IO
 - Doge official and fake
 - Roger fake account
 - LiteDoge official and fake
-- RNR official
+- Rock N Rain official
 - Shiba official
+- Garlic fake
+- banano missed the account not interested
 
 ## NFT
 
