@@ -8,6 +8,8 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 
 Also the problem with many sites is the amount of DOGE that must have to be able to retreive it
 
+TODAY I don't have any bitcoin or eth, it's just too much so I use to try NFT for that OFFICIALLY on opensea/nazimboudeffa
+
 ## Shitty cryptos
 
 - Doge official and fake
