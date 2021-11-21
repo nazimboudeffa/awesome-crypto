@@ -49,3 +49,6 @@ checkout [my wordpress blog](https://retromatrix.wordpress.com) with crypto tag 
 
 - https://thenftbay.org (open source so normally there is no problem)
 - https://www.spendyourdogecoins.cf
+
+
+AT THIS POINT YOU HAVE MADE LIKE 6 MONTH OF NOT WASTING TIME
