@@ -25,7 +25,7 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 
 - opensea official with walletconnect and fake with fortmatic
 - rarible fake with fortmatic
-- mintable no no no
+- mintable no no no even if it's free of gas fees
 
 ## Metaverse 
 
