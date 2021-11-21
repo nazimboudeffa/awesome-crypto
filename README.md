@@ -43,7 +43,7 @@ checkout [my wordpress blog](https://retromatrix.wordpress.com) with crypto tag 
 
 - https://faucetpay.io
 - https://doge-faucet.com
-- https://faucetcrypto.com (work and earn)
+- https://faucetcrypto.com (work and earn there is another one site like this that is cool)
 
 ## FUNNYS SITES
 
