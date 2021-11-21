@@ -32,3 +32,13 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 - https://cryptovoxels.com still anonymous
 - https://play.decentraland.org/ naz
 - https://www.sandbox.game/ nazimboudeffa
+
+## FAUCETS (no referal)
+
+- https://faucetpay.io
+- https://faucetcrypto.com
+
+## FUNNYS SITES
+
+- https://thenftbay.org
+- https://www.spendyourdogecoins.cf
