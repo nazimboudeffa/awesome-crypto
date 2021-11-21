@@ -36,7 +36,8 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 ## FAUCETS (no referal)
 
 - https://faucetpay.io
-- https://faucetcrypto.com
+- https://doge-faucet.com
+- https://faucetcrypto.com (work and earn)
 
 ## FUNNYS SITES
 
