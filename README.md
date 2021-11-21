@@ -31,7 +31,7 @@ checkout [my wordpress blog](https://retromatrix.wordpress.com) with crypto tag 
 
 - opensea official with walletconnect and fake with fortmatic
 - rarible fake with fortmatic
-- mintable no no no even if it's free of gas fees
+- mintable no no no even if it's free of gas fees bc I hate metamask
 
 ## Metaverse 
 
