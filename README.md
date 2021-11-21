@@ -6,6 +6,8 @@ Officially I use binance and trust wallet also ALTMARKETS.IO for the shitty cryp
 
 The problem is that it's very difficult to keep a wallet live and I use to miss the codes, only binance is a good place
 
+Also the problem with many sites is the amount of DOGE that must have to be able to retreive it
+
 ## Shitty cryptos
 
 - Doge official and fake
