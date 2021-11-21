@@ -2,7 +2,7 @@
 
 NOTICE : Please do not fork this repo at the moment, it's just for info on my activity in this field
 
-Officially I use binance and trust wallet also ALTMARKETS.IO
+Officially I use binance and trust wallet also ALTMARKETS.IO for the shitty cryptos
 
 The problem is that it's very difficult to keep a wallet live and I use to miss the codes, only binance is a good place
 
