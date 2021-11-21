@@ -33,7 +33,7 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 - https://play.decentraland.org/ naz
 - https://www.sandbox.game/ nazimboudeffa
 
-## FAUCETS (no referal)
+## FAUCETS (no referal on my official repo)
 
 - https://faucetpay.io
 - https://doge-faucet.com
