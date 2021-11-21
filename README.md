@@ -1,6 +1,6 @@
 # Awesome Crypto
 
-NOTICE : Please do not fork this repo, it's just for info on my activity in this field
+NOTICE : Please do not fork this repo at the moment, it's just for info on my activity in this field
 
 Officially I use binance and trust wallet also ALTMARKETS.IO
 
