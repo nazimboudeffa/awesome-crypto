@@ -10,6 +10,8 @@ Also the problem with many sites is the amount of DOGE that must have to be able
 
 TODAY I don't have any bitcoin or eth, it's just too much so I use to try NFT for that OFFICIALLY on opensea/nazimboudeffa
 
+checkout [my wordpress blog](retromatrix.wordpress.com) with crypto tag for more infos
+
 ## Shitty cryptos
 
 - Doge official and fake
