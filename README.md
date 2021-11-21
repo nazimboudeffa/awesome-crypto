@@ -41,5 +41,5 @@ The problem is that it's very difficult to keep a wallet live and I use to miss 
 
 ## FUNNYS SITES
 
-- https://thenftbay.org
+- https://thenftbay.org (open source so normally there is no problem)
 - https://www.spendyourdogecoins.cf
